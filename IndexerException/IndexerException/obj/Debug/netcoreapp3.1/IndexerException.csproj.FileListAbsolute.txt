@@ -1,0 +1,13 @@
+D:\BP201\IndexerException\IndexerException\bin\Debug\netcoreapp3.1\IndexerException.exe
+D:\BP201\IndexerException\IndexerException\bin\Debug\netcoreapp3.1\IndexerException.deps.json
+D:\BP201\IndexerException\IndexerException\bin\Debug\netcoreapp3.1\IndexerException.runtimeconfig.json
+D:\BP201\IndexerException\IndexerException\bin\Debug\netcoreapp3.1\IndexerException.runtimeconfig.dev.json
+D:\BP201\IndexerException\IndexerException\bin\Debug\netcoreapp3.1\IndexerException.dll
+D:\BP201\IndexerException\IndexerException\bin\Debug\netcoreapp3.1\IndexerException.pdb
+D:\BP201\IndexerException\IndexerException\obj\Debug\netcoreapp3.1\IndexerException.csprojAssemblyReference.cache
+D:\BP201\IndexerException\IndexerException\obj\Debug\netcoreapp3.1\IndexerException.AssemblyInfoInputs.cache
+D:\BP201\IndexerException\IndexerException\obj\Debug\netcoreapp3.1\IndexerException.AssemblyInfo.cs
+D:\BP201\IndexerException\IndexerException\obj\Debug\netcoreapp3.1\IndexerException.csproj.CoreCompileInputs.cache
+D:\BP201\IndexerException\IndexerException\obj\Debug\netcoreapp3.1\IndexerException.dll
+D:\BP201\IndexerException\IndexerException\obj\Debug\netcoreapp3.1\IndexerException.pdb
+D:\BP201\IndexerException\IndexerException\obj\Debug\netcoreapp3.1\IndexerException.genruntimeconfig.cache
